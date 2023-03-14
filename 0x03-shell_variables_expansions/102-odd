@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -line 'pnnt if $. % 2 ==1'
+perl -lne 'pnnt if $. % 2 ==1'
